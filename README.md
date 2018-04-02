@@ -53,3 +53,15 @@
 41.	Continues Integration ve Continues Delivery kavramlarını açıklayınız. Android için hangi araçları seçerek bu işlemleri gerçekleştirebilirsiniz?
 42.	ANR nedir? ANR oluşturucak 2 tane farklı senaryo yazınız.
 43.	Google Analytics ve Fabric.IO ne amaçla kullanılır? Bu ikisi hakkında bildiklerinizi yazınız.
+44. Intent’de setFlag() ve addFlag() metotları arasındaki farklar?
+45. pendingIntent nedir?
+46. Activity ve AppCompatActivity arasında ne gibi farklar vardır?
+47. Activity, AppCompatActivity, FragmentActivity, ActionBarActivity arasında nasıl bir ilişki vardır?
+48. Thread class ve AsyncTask arasındaki farklar?
+49. /assets klasörü ve /res/raw klasörü ne işe yarar?
+50. FrameLayout ve TableLayout farkları?
+51. RecyclerView ve ListView arasındaki farklar?
+52. StateListDrawable nedir?
+53. Intent ile yeni bir aktivite başlatırken, bulunduğun aktiviteyi clear back stack yapmanın 2 yolunu yaz?
+54. Shared Preference nasıl veri saklar? apply ve commit arasındaki fark nedir ve bunlardan hangisi tercih edilir?
+55. Android Support Library nedir? Neden tercih edilir?
